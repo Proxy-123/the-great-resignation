@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  background-color: #F4F9F9;
+font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+  background-color: #009DAE;
+}
+.heading {
+  font-family: 'Palette Mosaic', cursive;
+  color: #F4F9F9;
+  font-size: 3.3rem;
+  position: absolute;
+  top: 3%;
+  left: 27%;
+}
+img {
+  margin: 2%;
+  margin-top: 0;
+  margin-left: 0;
+}
+h3 {
+  font-family: 'Palette Mosaic', cursive;
+  color: #F4F9F9;
+  position: absolute;
+  top: 17%;
+  left : 27%;
+}
+.main {
+  font-size: 230%;
+  font-family: 'Montserrat', sans-serif;
+}
+p {
+  color: black;
+}
+h2 {
+  font-size: 180%;
+  font-family: 'Montserrat', sans-serif;
+}
+.bottom-container {
+  margin-top: 20%;
+  background-color: #009DAE;
+  margin-bottom: 0;
+}
+
+.copyright {
+  margin-bottom: 0;
+  margin-top: 100px;
+  color: #EAF6F6;
+  position: relative;
+  bottom: 20px;
+  margin-left: 650px;
+  font-size: 0.75rem;
+}
+
+.footer-link {
+  margin-left: 300px;
+  position: relative;
+  top: 50px;
+  align-items: center;
+}
